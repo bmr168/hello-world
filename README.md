@@ -1,2 +1,3 @@
 # hello-world
 First repository for Brooke
+I might figure this out some time, come on it's the first lesson...
